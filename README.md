@@ -1,13 +1,19 @@
 # Introduction
 Translation scripts for [World of Cultivation](https://wwyxhqc.wordpress.com/%E4%BF%AE%E7%9C%9F%E4%B8%96%E7%95%8C-world-of-cultivation/).  WoC's translation is somewhat infamous for overwhelming the reader with Chinese words.  The first few chapters aren't representative, though — the frequency dies down quickly, and few new words are introduced after the first five-ish chapters.  These scripts should be complete through the first 30 chapters, and hit the vast majority of terms for the remainder of the current translation.
 
-# The scripts
+# The Scripts
 
 [WoC Mouseover Translations.user.js](https://github.com/tsubasa2004/WoC_Translation/blob/master/WoC%20Mouseover%20Translations.user.js) adds a tooltip to Chinese words with a translation or conversion.
 
 [WoC Direct Translations.user.js](https://github.com/tsubasa2004/WoC_Translation/blob/master/WoC%20Direct%20Translations.user.js) replaces most words with the English translations.  This can be somewhat awkward, particularly where it comes to subject/verb agreement or word order.  Some terms (units; words with no succint English equivalent) have been left in Pinyin with mouseover translation.
 
-# Regarding the translation
+# Installation
+
+Chrome-based browsers can install these userscripts directly.  On the script page; right-click "Raw", and "Save link as".  Open a new tab, and go to chrome://extensions.  Drag the file your downloaded onto that page.
+
+Other browsers will need a userscript manager like Greasemonkey(Firefox) or Tampermonkey(Chrome & Chrome derivatives).  Simply click on the "Raw" link on the script page, and it should offer to install the script.
+
+# Regarding the Translation
 
 I attempted my own MTL of the first 7 chapters of WoC, and I found myself agreeing more with the Dreams of Jianghu translation than I thought I would.
 
