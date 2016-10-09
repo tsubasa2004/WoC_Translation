@@ -13,6 +13,8 @@ Chrome-based browsers can install these userscripts directly.  On the script pag
 
 Other browsers will need a userscript manager like Greasemonkey(Firefox) or Tampermonkey(Chrome & Chrome derivatives).  Simply click on the "Raw" link on the script page, and it should offer to install the script.
 
+You can find better instructions by googling 'install userscript (insert browser here)'.
+
 # Regarding the Translation
 
 I attempted my own MTL of the first 7 chapters of WoC, and I found myself agreeing more with the Dreams of Jianghu translation than I thought I would.
