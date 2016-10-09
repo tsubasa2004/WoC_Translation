@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name WoC Direct Translations
-// @namespace https://github.com/tsubasa2004
+// @namespace http://tampermonkey.net/
 // @version 0.1
 // @description Provides in-text translation for World of Cultivation
 // @author You
@@ -132,7 +132,7 @@ If you want to test a regular expression, http://regexr.com is a useful site.
     chapter = chapter.replace(/tael/g, '<em title="37.5, or 1/16 catty">tael</em>');
 
 // ————————— Real World Things —————————————————————————————————————————————
-    chapter = chapter.replace(/\b[Ll]i [Ww]ater\b/g, '<em title="☲ - the Eight Trigrams character representing fire, radiance, clarity">Li Water</em>');
+    chapter = chapter.replace(/\b[Ll]i [Ww]ater\b/g, '<em title="☲ - the Eight Trigrams character representing fire, radiance, clarity">Li</em> Water');
     chapter = chapter.replace(/\b[nN]an [mM]en [yY]ang\b/g, 'NMY');
     chapter = chapter.replace(/\byin\b/g, '<em title="Femenine, Negative, Cold, Wet">yin</em>');
     chapter = chapter.replace(/\byang\b/g, '<em title="Masculine, Positive, Hot, Dry">yang</em>');
